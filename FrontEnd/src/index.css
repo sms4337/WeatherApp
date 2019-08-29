@@ -1,0 +1,179 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* font-family: sans-serif; */
+  font-family: "Open Sans", Tahoma, "Helvetica Neue", sans-serif, Arial;
+}
+.homePage div > a {
+  font-size: 25px;
+  display: block;
+}
+.del-body {
+  min-height: calc(100vh - 130px);
+}
+.del-body .lg-cta.del-btn {
+  background-color: #86bc25;
+  color: #fff;
+  letter-spacing: 1px;
+  /* display: inline-flex;  */
+  width: 275px;
+  padding: 10px;
+  margin: 0px 20px 20px 35%;
+  display: block;
+}
+.del-body li a {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+}
+.del-body li a {
+  color: #fff;
+}
+.weatherdateForm .select::after {
+  background: #86bc25;
+  padding-left: 12em;
+}
+.weatherdateForm .tracker-row {
+  display: flex;
+  align-items: center;
+  padding: 0 20% 0 2%;
+  margin-bottom: 30px;
+}
+.weatherdateForm .tracker-row .col-desc input {
+  width: 70%;
+}
+.weatherdateForm .select {
+  top: -1px;
+  height: 3.1em;
+  left: -1px;
+  position: relative;
+  display: block;
+  width: 20em;
+  height: 2.6em;
+  line-height: 3;
+  overflow: hidden;
+  border-style: solid;
+  border-color: #a0a0a0;
+  border-width: thin;
+  width: 70%;
+  outline: 0;
+  box-shadow: none;
+  background-image: none;
+  font-family: helvetica !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em !important;
+  font-size: 13px !important;
+  font-weight: bold !important;
+}
+.weatherdateForm .select::after {
+  background: #86bc25;
+  content: "\25BC";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  padding: 0 1em;
+  pointer-events: none;
+  height: 200%;
+}
+.weatherdateForm .select select {
+  border-style: none;
+  height: 100%;
+  margin: 0;
+  padding: 0 50px 0 0.5em;
+  color: #787878;
+  cursor: pointer;
+  width: 120%;
+}
+
+.weatherdateForm div input {
+  padding: 5px;
+}
+
+.data-success {
+  background: rgb(0, 42, 91);
+}
+
+.data-success h1 {
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+}
+
+.data-error {
+  background: rgb(137, 37, 40);
+}
+
+.data-error h1 {
+  color: white;
+  text-align: center;
+}
+
+.react-bs-table table td,
+.react-bs-table table th {
+  white-space: unset !important;
+}
+
+.react-tabs__tab {
+  font-weight: bold;
+  background-color: black;
+  color: white;
+  border-top-left-radius: 4.5px;
+  border-top-right-radius: 4.5px;
+  padding: 10px 40px 10px 41.9px !important;
+}
+
+.react-tabs__tab-panel {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+div.center {
+  padding: 10px 0px 0px 275px;
+}
+
+.lg-cta {
+  padding-left: 185px;
+}
+
+.button-style {
+  text-align: center;
+  margin-left: -18%;
+}
+.color-box {
+  display: inline-block;
+  position: relative;
+  margin: 2%;
+  width: 10%;
+  height: 30px;
+  text-align: center;
+  border-radius: 10px;
+  /* padding: 0%; */
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+#Mumbai {
+  background-color: greenyellow;
+}
+#Hyderabad {
+  background-color: orange;
+}
+#Bangalore {
+  background-color: brown;
+}
+#Chennai {
+  background-color: green;
+}
+#Delhi {
+  background-color: blue;
+}
+#Kolkatta {
+  background-color: olive;
+}
+.boxes {
+  position: relative;
+  left: 100px;
+}

@@ -1,0 +1,24 @@
+[
+	{
+	    "cityName": "Kolkatta",
+	    "countryName": "india",
+	    "weatherDescription": "light rain",
+	    "temperature": "25",
+	    "cloudsDescription": "Broken Clouds",
+	    "windDescription": "Moderate breeze, 7.2 m/s, West-northwest (290)",
+	    "pressure": "1007 ",
+	    "humidityPercentage": "79",
+	    "date": "2018-07-01"
+	},
+	{
+	    "cityName": "Kolkatta",
+	    "countryName": "india",
+	    "weatherDescription": "light rain",
+	    "temperature": "30",
+	    "cloudsDescription": "Broken Clouds",
+	    "windDescription": "Moderate breeze, 7.2 m/s, West-northwest (290)",
+	    "pressure": "1007 ",
+	    "humidityPercentage": "79",
+	    "date": "2018-07-02"
+	}
+]

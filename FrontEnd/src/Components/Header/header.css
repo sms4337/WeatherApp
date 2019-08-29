@@ -1,0 +1,59 @@
+.del-header,
+.footer {
+  background: #000;
+  height: 65px;
+  width: 100%;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.del-header .del-heading {
+  display: flex;
+  justify-content: space-between;
+}
+.del-header .del-heading sup {
+  font-size: 12px;
+  top: -15px;
+  font-weight: 500;
+  left: -5px;
+}
+.del-header .del-heading sub {
+  color: #86bc25;
+}
+.del-header .del-logo {
+  color: #fff;
+}
+.del-header h1 .highlight {
+  color: #86bc25;
+}
+.del-header a {
+  color: inherit;
+}
+.del-header a:focus,
+.del-header a:active,
+.del-header a:hover {
+  text-decoration: none;
+}
+.del-header h1 {
+  text-decoration: none;
+  text-transform: none;
+  margin: 0;
+}
+@media screen and (max-width: 426px) {
+  .del-header .del-heading {
+    display: block;
+    font-size: 20px;
+  }
+  .del-header .del-heading sup {
+    font-size: 10px;
+    top: -10px;
+    font-weight: 500;
+    left: 0px;
+  }
+}
+
+.del-logo {
+  padding: 5px;
+}

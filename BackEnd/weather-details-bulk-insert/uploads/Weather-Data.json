@@ -1,0 +1,79 @@
+[
+	{
+	    "cityName": "Bangalore",
+	    "countryName": "india",
+	    "weatherDescription": "light rain",
+	    "temperature": "25",
+	    "cloudsDescription": "Broken Clouds",
+	    "windDescription": "Moderate breeze, 7.2 m/s, West-northwest (290)",
+	    "pressure": "1034 ",
+	    "humidityPercentage": "79",
+	    "date": "2018-10-04"
+	},
+	{
+	    "cityName": "Hyderabad",
+	    "countryName": "india",
+	    "weatherDescription": "moderate rain",
+	    "temperature": "38",
+	    "cloudsDescription": "Few Clouds",
+	    "windDescription": "Gentle Breeze, 4.1 m/s, West-northwest ( 120 )",
+	    "pressure": "849.90",
+	    "humidityPercentage": "21",
+	    "date": "2018-10-04"
+	},
+	{
+	    "cityName": "Kolkatta",
+	    "countryName": "india",
+	    "weatherDescription": "heavy rain",
+	    "temperature": "31",
+	    "cloudsDescription": "Scattered Clouds",
+	    "windDescription": "Moderate breeze, 7.2 m/s, West-northwest (290)",
+	    "pressure": "384.90",
+	    "humidityPercentage": "78",
+	    "date": "2018-10-04"
+	},
+	{
+	    "cityName": "Mumbai",
+	    "countryName": "india",
+	    "weatherDescription": "light rain",
+	    "temperature": "39",
+	    "cloudsDescription": "Overcast Clouds",
+	    "windDescription": "Gentle Breeze, 4.1 m/s, West-northwest ( 360 )",
+	    "pressure": "345.89",
+	    "humidityPercentage": "34",
+	    "date": "2018-10-04"
+	},
+	{
+	    "cityName": "Pune",
+	    "countryName": "india",
+	    "weatherDescription": "moderate rain",
+	    "temperature": "32",
+	    "cloudsDescription": "Broken Clouds",
+	    "windDescription": "Moderate breeze, 7.2 m/s, West-northwest (290)",
+	    "pressure": "394.809",
+	    "humidityPercentage": "90",
+	    "date": "2018-10-03"
+	},
+	{
+	    "cityName": "Chennai",
+	    "countryName": "india",
+	    "weatherDescription": "heavy rain",
+	    "temperature": "35",
+	    "cloudsDescription": "Scattered Clouds",
+	    "windDescription": "Gentle Breeze, 4.1 m/s, West-northwest ( 230 )",
+	    "pressure": "549.09",
+	    "humidityPercentage": "67",
+	    "date": "2018-10-03"
+	},
+	{
+	    "cityName": "Delhi",
+	    "countryName": "india",
+	    "weatherDescription": "light rain",
+	    "temperature": "37",
+	    "cloudsDescription": "Few Clouds",
+	    "windDescription": "Moderate breeze, 7.2 m/s, West-northwest (290)",
+	    "pressure": "438.23",
+	    "humidityPercentage": "45",
+	    "date": "2018-10-04"
+	}
+]
