@@ -15,10 +15,7 @@ class Header extends React.Component {
                   App
                 </Link>
               </div>
-              <div>
-                <img src={require("../../images/img-deloitte-logo.png")} />
-                {/* <img alt = "DeloitteLogo" src = '../../images/img-deloitte-logo.png' /> */}
-              </div>
+              
             </h1>
           </div>
         </div>
